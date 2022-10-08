@@ -1,5 +1,7 @@
 # Java-Assignment-007
+
 Java Assignment 7 - Greatest Common Factor
+
 ![Flowchart for GCF method](images/GCF_Flowchart.png)
 
 ## PART 1: Implement a gcf method in MyMath class
