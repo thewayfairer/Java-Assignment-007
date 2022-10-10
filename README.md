@@ -3,7 +3,7 @@
 Java Assignment 7 - Greatest Common Factor
 
 ## Euclid's GCF Algorithm Explained
-<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Euclid_GCF" src="https://redwoods.us-west-2.instructuremedia.com/embed/a9ac7a12-f15a-41e3-a1ec-fbe21bcc3ab6" frameborder="0"></iframe>
+[Euclid's GCF Algorithm Explained](https://redwoods.us-west-2.instructuremedia.com/embed/a9ac7a12-f15a-41e3-a1ec-fbe21bcc3ab6)
 
 ## Flowchart of Euclid's GCF Algorithm
 ![Flowchart for GCF method](images/GCF_Flowchart.png)
