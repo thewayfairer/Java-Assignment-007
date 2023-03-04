@@ -11,7 +11,7 @@ Java Assignment 7 - Greatest Common Factor
 ![Flowchart for GCF method](images/GCF_Flowchart.png)
 
 ## PART 1: Implement a gcf method in MyMath class
-* Use the vide and flowchart above as guides to help implement a method **gcf** in the **MyMath** class that calculates the greatest common factor of 2 numbers.
+* Use the video and flowchart above as guides to help implement a method **gcf** in the **MyMath** class that calculates the greatest common factor of 2 numbers.
     * **Hint**: This flowchart depicts a while loop and conditional
 
 ## PART 2: Turn In
