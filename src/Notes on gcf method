@@ -1,0 +1,10 @@
+Here's a step-by-step explanation of the gcf method:
+
+The method takes two integer parameters, a and b.
+It uses a while loop that continues as long as b is not equal to zero.
+Inside the loop, a temporary variable temp is used to store the value of b.
+Then, b is assigned the value of a % b, which is the remainder when a is divided by b.
+The value of temp is assigned to a.
+The loop continues until b becomes zero.
+Once the loop ends, the absolute value of a is returned as the greatest common factor.
+The main method demonstrates how to use the gcf method by finding the GCF of 24 and 36, which is 12
